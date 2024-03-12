@@ -1,1 +1,7 @@
-# Pymaceuticals_Capomulin
+# Pymaceuticals Inc.
+
+### Analysis
+
+- Given the provided data and the summarized statistics we can conclude the following information about the provided dataset and a drug regimens effect on overall tumor volume in test mice; Drug regimen, Ramicane and Capomulin, more often produce a lower tumor volume over time (in comparison to Infubinol and Ceftamin) and seem to be the most effective of those tested. This conclusion is drawn from various points of data: tumor volume variance, mean tumor volume and the visualization of the drug regimen results in the provided box plot. We can further see this in the treatment of mouse l509, following 30 days with the drug regimen the tumor volume dropped significantly (5-8mm3). However, following the 35 day mark, we begin to notice a slight increase in tumor volume for mouse l509. Given the summary statistics, Ramicane seems to be the most effective of all 10 drug regimens used in the study. Ramicane shows having the least amount of tumor volume variance, mean and median tumor volume, only followed closely by Capomulin.  
+
+- Mouse weight has a positive correlation to tumor volume, this makes sense logically given that larger mice have a higher food intake which provides additional nutrients for tumor growth. I think it would be interesting to study the correlation between male and female mice and the average tumor volume, response to specific drug regimens, etc. Does the sex of mice have an affect on the way tumors metastasize or responds to different drug regimens? 
